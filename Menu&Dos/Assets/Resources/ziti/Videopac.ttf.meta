@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4bb408a89e5ffd94e8d955635a6758bd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Videopac
+  fontNames:
+  - Videopac
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: caa85b486dd9110439f31177b4009fb9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
